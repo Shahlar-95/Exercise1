@@ -176,4 +176,66 @@ header .menu nav .btn h2 {
   color: rgba(198, 201, 216, 0.75);
   line-height: 1.4;
   font-size: 23px;
+}
+
+#pages {
+  background-color: #191919;
+}
+#pages .wid {
+  width: 570px;
+}
+#pages .box {
+  text-align: center;
+}
+#pages .box h3 {
+  font-size: 18px;
+  background: -webkit-linear-gradient(#2096FE, #FD4766);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#pages .box h1 {
+  margin: 12px 0 20px;
+  font-weight: 700;
+  font-size: 55px;
+  color: white;
+}
+#pages .box h4 {
+  margin-bottom: 40px;
+  font-size: 23px;
+  line-height: 1.4;
+  color: rgba(198, 201, 216, 0.75);
+}
+#pages .textbox {
+  width: 355px;
+  height: 520px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+#pages .textbox h5 {
+  color: rgba(198, 201, 216, 0.75);
+  font-size: 22px;
+}
+#pages .textbox h2 {
+  margin-top: 22px;
+  color: white;
+  font-size: 33px;
+  font-weight: 500;
+}
+#pages .textbox .minibox {
+  position: relative;
+  top: 400px;
+  left: 40px;
+}
+#pages .bck {
+  background-image: url(http://rainbowit.net/html/imroz/assets/images/portfolio/portfolio-8.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#pages .bcg {
+  background-image: url(http://rainbowit.net/html/imroz/assets/images/portfolio/portfolio-9.jpg);
+  background-repeat: no-repeat;
+}
+#pages .back {
+  background-image: url(http://rainbowit.net/html/imroz/assets/images/portfolio/portfolio-10.jpg);
+  background-repeat: no-repeat;
 }/*# sourceMappingURL=style.css.map */
