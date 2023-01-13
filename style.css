@@ -293,7 +293,32 @@ header .menu nav .btn h2 {
   color: white;
   font-size: 55px;
   font-weight: 700;
+  margin: 25px 0;
 }
 #growth .textbox h6 {
+  font-size: 22px;
   color: rgba(198, 201, 216, 0.75);
+}
+
+#pictures {
+  background-color: #191919;
+}
+#pictures .wid {
+  width: 450px;
+}
+#pictures .textbox {
+  padding-top: 100px;
+}
+#pictures .textbox p {
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1.4;
+  margin-bottom: 35px;
+}
+#pictures .textbox h2 {
+  color: #8c8c8c;
+}
+#pictures .textbox h2 span {
+  color: #FD4766;
 }/*# sourceMappingURL=style.css.map */
