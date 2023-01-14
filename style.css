@@ -321,4 +321,19 @@ header .menu nav .btn h2 {
 }
 #pictures .textbox h2 span {
   color: #FD4766;
+}
+#pictures ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+#pictures ul li {
+  margin: 11px;
+}
+#pictures ul li img {
+  cursor: pointer;
+  border-radius: 8px;
+}
+#pictures .widt img {
+  width: 160px;
 }/*# sourceMappingURL=style.css.map */
