@@ -336,4 +336,62 @@ header .menu nav .btn h2 {
 }
 #pictures .widt img {
   width: 160px;
+}
+
+#news {
+  background-color: #101010;
+}
+#news .wid {
+  width: 570px;
+}
+#news .box {
+  text-align: center;
+}
+#news .box h2 {
+  font-size: 20px;
+  background: -webkit-linear-gradient(#2096FE, #FD4766);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#news .box h1 {
+  font-weight: 700;
+  font-size: 60px;
+  margin: 10px 0 20px;
+  color: white;
+}
+#news .box p {
+  font-size: 23px;
+  line-height: 1.4;
+  margin: 0 0 50px;
+  color: rgba(198, 201, 216, 0.75);
+}
+#news .textbox {
+  height: 535px;
+}
+#news .textbox .minibox h3 {
+  color: rgba(198, 201, 216, 0.75);
+  font-size: 22px;
+}
+#news .textbox .minibox h4 {
+  margin-top: 22px;
+  color: white;
+  font-size: 33px;
+  font-weight: 500;
+}
+#news .textbox .minibox .minibox {
+  position: relative;
+  top: 400px;
+  left: 40px;
+}
+#news .bac {
+  background-image: url(http://rainbowit.net/html/imroz/assets/images/blog/blog-01.jpg);
+  background-repeat: no-repeat;
+}
+#news .back {
+  background-image: url(http://rainbowit.net/html/imroz/assets/images/blog/blog-02.jpg);
+  background-repeat: no-repeat;
+}
+#news .picture {
+  background-image: url(http://rainbowit.net/html/imroz/assets/images/blog/blog-03.jpg);
+  background-repeat: no-repeat;
 }/*# sourceMappingURL=style.css.map */
